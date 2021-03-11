@@ -1,13 +1,12 @@
 <?php
 /*
- * Plugin Name: WooCommerce huisnummer verplicht
+ * Plugin Name: Woo huisnummer verplicht
  * Plugin URI: https://www.netorigin.nl/
- * Description: WooCommerce Checkout maak huisnummer verplicht
+ * Description: Woo Checkout maak huisnummer verplicht
  * Author: Timothy Morgan
  * Version: 1.0.0
  * Author URI: https://netorigin
  * Text Domain: woo-huisnummer-verplicht
- * Domain Path: /languages
  * WC requires at least: 3.0
  * WC tested up to: 5.1.0
  * License:
